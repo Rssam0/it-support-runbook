@@ -1,6 +1,6 @@
-# Forgotten password / locked account
+# Locked account / forgotten password
 
-- Verify identity first, following the organisation's policy. Never reset a password for someone you haven't verified.
-- Use the official reset flow. Do not ask users to send passwords.
-- Unlock after too many failed attempts, then ask the user to set a new password and enable multi-factor authentication.
-- Check for signs of attack: many failed logins from different places can mean someone is guessing the password. Report it.
+- verify who they are first, whatever the company's policy is. never reset a password for someone you didn't verify
+- use the official reset flow. never ask anyone to send you their password
+- if it's locked from too many tries: unlock it, have them set a new password, push them to turn on MFA
+- lots of failed logins from odd places can mean someone is guessing the password. report it, don't just unlock and move on

@@ -1,8 +1,7 @@
-# IT Support Runbook (learning log)
+# IT support runbook
 
-A personal runbook of common helpdesk problems and the steps I use to diagnose them. I add entries as I learn. I am a student, so each entry lists what I tested myself.
+Notes on common helpdesk problems and how I'd work through them. I'm a student so this is practice - I add entries as I learn, and each one only claims what I actually tried.
 
-## Entries
 - [No internet](no-internet.md)
 - [Slow computer](slow-computer.md)
-- [Forgotten password / locked account](account-locked.md)
+- [Locked account / forgotten password](account-locked.md)
